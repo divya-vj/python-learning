@@ -8,6 +8,8 @@ The goal of this repository is to build a strong Python foundation with clean, r
 ### Topics Covered
 - Python basics
 - Loops and conditionals
+- Strings
+- Lists and tuples
 
 
 Stay tuned for regular updates as I progress.
