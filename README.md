@@ -10,6 +10,6 @@ The goal of this repository is to build a strong Python foundation with clean, r
 - Loops and conditionals
 - Strings
 - Lists and tuples
-
+- Dictionary and sets
 
 Stay tuned for regular updates as I progress.
